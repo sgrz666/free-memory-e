@@ -1,0 +1,5 @@
+{
+  "name": "自由回忆实验实验室",
+  "description": "一个用于复现心理学自由回忆实验的专业工具，具有系列位置曲线分析、首因和近因效应可视化以及可自定义的干扰任务。",
+  "requestFramePermissions": ["microphone"]
+}
